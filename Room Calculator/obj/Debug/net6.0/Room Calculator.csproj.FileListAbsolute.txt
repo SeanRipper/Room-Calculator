@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\bin\Debug\net6.0\Room Calculator.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\bin\Debug\net6.0\Room Calculator.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\bin\Debug\net6.0\Room Calculator.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\bin\Debug\net6.0\Room Calculator.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\bin\Debug\net6.0\Room Calculator.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\refint\Room Calculator.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\Room Calculator.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Room Calculator\Room Calculator\obj\Debug\net6.0\ref\Room Calculator.dll
